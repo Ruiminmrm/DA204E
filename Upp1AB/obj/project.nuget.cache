@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcY4MJAqvlBVViJGBZewS03uuZ4TO3hxZ1ZgFl4lYkYA1/9zevpTnDusmSipsV4BtP3KVYkGRQBzGvsRV2lBUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ruimac-1\\source\\repos\\malmöUpp1ForHigherGrade\\malmöUpp1ForHigherGrade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruimac-1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

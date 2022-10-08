@@ -1,0 +1,13 @@
+C:\Users\ruimac-1\source\repos\MrmUppgift\obj\Debug\netcoreapp3.1\malmöUpp1.csprojAssemblyReference.cache
+C:\Users\ruimac-1\source\repos\MrmUppgift\obj\Debug\netcoreapp3.1\malmöUpp1.AssemblyInfoInputs.cache
+C:\Users\ruimac-1\source\repos\MrmUppgift\obj\Debug\netcoreapp3.1\malmöUpp1.AssemblyInfo.cs
+C:\Users\ruimac-1\source\repos\MrmUppgift\obj\Debug\netcoreapp3.1\malmöUpp1.csproj.CoreCompileInputs.cache
+C:\Users\ruimac-1\source\repos\MrmUppgift\bin\Debug\netcoreapp3.1\malmöUpp1.exe
+C:\Users\ruimac-1\source\repos\MrmUppgift\bin\Debug\netcoreapp3.1\malmöUpp1.deps.json
+C:\Users\ruimac-1\source\repos\MrmUppgift\bin\Debug\netcoreapp3.1\malmöUpp1.runtimeconfig.json
+C:\Users\ruimac-1\source\repos\MrmUppgift\bin\Debug\netcoreapp3.1\malmöUpp1.runtimeconfig.dev.json
+C:\Users\ruimac-1\source\repos\MrmUppgift\bin\Debug\netcoreapp3.1\malmöUpp1.dll
+C:\Users\ruimac-1\source\repos\MrmUppgift\bin\Debug\netcoreapp3.1\malmöUpp1.pdb
+C:\Users\ruimac-1\source\repos\MrmUppgift\obj\Debug\netcoreapp3.1\malmöUpp1.dll
+C:\Users\ruimac-1\source\repos\MrmUppgift\obj\Debug\netcoreapp3.1\malmöUpp1.pdb
+C:\Users\ruimac-1\source\repos\MrmUppgift\obj\Debug\netcoreapp3.1\malmöUpp1.genruntimeconfig.cache

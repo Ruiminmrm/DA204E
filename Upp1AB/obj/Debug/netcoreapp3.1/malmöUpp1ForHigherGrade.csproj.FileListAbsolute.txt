@@ -1,0 +1,13 @@
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\bin\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.exe
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\bin\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.deps.json
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\bin\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.runtimeconfig.json
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\bin\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.runtimeconfig.dev.json
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\bin\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.dll
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\bin\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.pdb
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\obj\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.csprojAssemblyReference.cache
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\obj\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.AssemblyInfoInputs.cache
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\obj\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.AssemblyInfo.cs
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\obj\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.csproj.CoreCompileInputs.cache
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\obj\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.dll
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\obj\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.pdb
+C:\Users\ruimac-1\source\repos\malmöUpp1ForHigherGrade\obj\Debug\netcoreapp3.1\malmöUpp1ForHigherGrade.genruntimeconfig.cache
